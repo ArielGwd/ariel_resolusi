@@ -1,2 +1,3 @@
 # ariel_resolusi
-Repository untuk meniymoa 
+Repository untuk menyimpan rencana kedepannya
+
